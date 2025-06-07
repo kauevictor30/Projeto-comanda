@@ -3,7 +3,6 @@ from produtos import *
 from comanda import *
 from caixa import registrar_pagamento, saldo_caixa
 
-
 forma_de_pag = ['pix', 'credito', 'debito', 'dinheiro']
 caixa = []
 
